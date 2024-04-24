@@ -33,13 +33,13 @@ portfolio
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/achref-jlidi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angga%20Lesmana%20github-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/achref-jlidi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Achref%20Jlidi%20github-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:achrefjlidi8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achrefjlidi8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p>
-  <a href="https://gitlab.com/achrefjlidi">My Gitlab</a> 
+  <a href="https://gitlab.com/achrefjlidi8">My Gitlab</a> 
 </p>
-⭐️ From [Angga Lesmana](https://github.com/achrefjlidi)
+⭐️ From [Achref JLIDI](https://github.com/achrefjlidi)
 My Whatsapp
 +21655685578
 

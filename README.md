@@ -1,4 +1,4 @@
-<h2>Hello There</h2>
+<h2>Hi There 👋 </h2>
 <p> 
 As a software engineer with a Bachelor's degree in Computer Science and Information Technology, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
 

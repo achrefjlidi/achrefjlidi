@@ -6,7 +6,9 @@ Currently exploring new opportunities in the tech industry.
 <p align="center"> 
 When I'm not coding find me taking photos or trying to jump out of the nearest plane.
 </p>
-<div align="center">  
+
+<div align="center"> 
+  
   [![Linkedin Badge](https://img.shields.io/badge/-achrefjlidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achref-jlidi/)](https://www.linkedin.com/in/achref-jlidi/)
   [![Github Badge](https://img.shields.io/badge/-@achrefjlidi-03a57a?style=flat-square&label&logo=Medium&link=https://https://github.com/achrefjlidi/)](https://github.com/achrefjlidi/)
   [![Gmail Badge](https://img.shields.io/badge/-achrefjlidi8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achrefjlidi8@gmail.com)](mailto:achrefjlidi8@gmail.com)

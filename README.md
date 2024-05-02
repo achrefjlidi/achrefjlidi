@@ -1,9 +1,11 @@
 <h2>👋 Hi there! I'm Achref Jlidi </h2>
 <p> 
-I'm a recent IT graduate and full-stack Java developer passionate about building innovative web applications. Currently exploring new opportunities in the tech industry.
-
+I'm a software engineer with a Bachelor's degree in Computer Science and Information Technology, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
+Currently exploring new opportunities in the tech industry.
 </p>
-<div align="center">
+<p align="center"> 
+When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+</p>
   
   [![Linkedin Badge](https://img.shields.io/badge/-achrefjlidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achref-jlidi/)](https://www.linkedin.com/in/achref-jlidi/)
   [![Github Badge](https://img.shields.io/badge/-@achrefjlidi-03a57a?style=flat-square&label&logo=Medium&link=https://https://github.com/achrefjlidi/)](https://github.com/achrefjlidi/)

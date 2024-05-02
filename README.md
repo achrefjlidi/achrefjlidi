@@ -27,10 +27,13 @@ I'm a recent IT graduate and full-stack Java developer passionate about building
 - 🖥 &nbsp; UI / UX | Figma | Canva |
 
 <br/>
+
+<br>
+
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Achref's github stats](https://github-readme-stats.vercel.app/api?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Achref's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) ||
+| ![Achref JLIDI's github stats](https://github-readme-stats.vercel.app/api?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Achref JLIDI's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) ||
 
 
 

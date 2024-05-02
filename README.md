@@ -1,15 +1,15 @@
-<h2>Hi There 👋 </h2>
+<h2>👋 Hi there! I'm Achref Jlidi </h2>
 <p> 
-As a software engineer with a Bachelor's degree in Computer Science and Information Technology, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my academic and professional experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications.
+I'm a recent IT graduate and full-stack Java developer passionate about building innovative web applications. Currently exploring new opportunities in the tech industry.
 
-One area where I have particularly excelled is in using Angular, a popular front-end web development framework. Since 2020, I have been working extensively with Angular to develop dynamic, responsive user interfaces that deliver a seamless user experience. I am highly skilled in using Angular to build complex applications, and I enjoy keeping up to date with the latest trends and updates in the framework.
-
-In addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations.
-
-Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 </p>
-portfolio
-<a target="_blank" href="https://achrefjlidi.github.io/">Check</a>
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-achrefjlidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achref-jlidi/)](https://www.linkedin.com/in/achref-jlidi/)
+  [![Github Badge](https://img.shields.io/badge/-@achrefjlidi-03a57a?style=flat-square&label&logo=Medium&link=https://https://github.com/achrefjlidi/)](https://github.com/achrefjlidi/)
+  [![Gmail Badge](https://img.shields.io/badge/-achrefjlidi8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achrefjlidi8@gmail.com)](mailto:achrefjlidi8@gmail.com)
+</div>
+<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -27,25 +27,11 @@ portfolio
 - 🖥 &nbsp; UI / UX | Figma | Canva |
 
 <br/>
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Achref's github stats](https://github-readme-stats.vercel.app/api?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Achref's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrefjlidi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-[![achrefjlidi GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrefjlidi&show_icons=true)](https://github.com/achrefjlidi)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/achref-jlidi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Achref%20Jlidi%20github-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:achrefjlidi8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achrefjlidi8@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-<p>
-  <a href="https://gitlab.com/achrefjlidi8">My Gitlab</a> 
-</p>
-⭐️ From [Achref JLIDI](https://github.com/achrefjlidi)
-My Whatsapp
-+21655685578
-
-anggagammer8
-A9whaik4pqL5r7w0
-Sayangmamah1.
 
 
 
